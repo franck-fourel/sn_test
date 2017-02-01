@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bf7b18addbd43200c4f5d360cf961915</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_74170_simpleapp_simpleapp">
+    <x_74170_simpleapp_simpleapp action="INSERT_OR_UPDATE">
+        <field1>Persistent Application Data</field1>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-13 10:09:55</sys_created_on>
+        <sys_id>bf7b18addbd43200c4f5d360cf961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-13 10:09:55</sys_updated_on>
+    </x_74170_simpleapp_simpleapp>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-13 10:10:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f2cb542ddbd43200c4f5d360cf9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2017-01-13 02:09:55</sys_name>
+        <sys_package display_value="SimpleApp" source="x_74170_simpleapp">57575865dbd43200c4f5d360cf9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SimpleApp">57575865dbd43200c4f5d360cf9619f8</sys_scope>
+        <sys_update_name>sys_metadata_link_f2cb542ddbd43200c4f5d360cf9619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-13 10:10:43</sys_updated_on>
+        <tablename>x_74170_simpleapp_simpleapp</tablename>
+    </sys_metadata_link>
+</record_update>
